@@ -1,2 +1,2 @@
 # myElephant-Engine
-[php]
+[I know its a fucking stupid idea...]
